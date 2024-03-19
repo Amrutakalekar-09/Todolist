@@ -11,13 +11,14 @@ h1{
     margin: 20px !important;
 }
 button{
+    margin-top: 30px;
     margin-left: 10px !important;
 }
-input{
+/* input{
     display: inline !important;
     border: 3px solid black !important;
     width: 85% !important;
-}
+} */
 li{
     list-style-type: none;
     font-size: 20px;
